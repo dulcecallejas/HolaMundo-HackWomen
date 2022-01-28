@@ -31,6 +31,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 
 Dulce Callejas
-- La costura
-- Comer pastel
-- Ver documentales
+- La costura👩‍🦰
+- Comer pastel🍰 
+- Ver documentales🖥🍕
